@@ -1,0 +1,10 @@
+2025-05-05 17:47:50,787 werkzeug INFO  * Detected change in '/home/preetam/phase1T1/main/app.py', reloading
+2025-05-05 17:47:50,949 werkzeug INFO  * Restarting with stat
+2025-05-05 17:47:51,940 root INFO **Start**
+2025-05-05 17:47:52,006 werkzeug WARNING  * Debugger is active!
+2025-05-05 17:47:52,029 werkzeug INFO  * Debugger PIN: 447-518-368
+2025-05-05 17:51:03,965 werkzeug INFO  * Detected change in '/home/preetam/phase1T1/main/app.py', reloading
+2025-05-05 17:51:04,485 werkzeug INFO  * Restarting with stat
+2025-05-05 17:51:05,411 root INFO **Start**
+2025-05-05 17:51:05,462 werkzeug WARNING  * Debugger is active!
+2025-05-05 17:51:05,472 werkzeug INFO  * Debugger PIN: 447-518-368
